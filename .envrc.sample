@@ -1,0 +1,6 @@
+export CONSUMER_KEY='asdf'
+export CONSUMER_SECRET='asdf'
+export ACCESS_TOKEN='asdf'
+export ACCESS_TOKEN_SECRET='asdf'
+export USER_ID='asdf'
+export BLOG_ID='example-user.hatenablog.com'
