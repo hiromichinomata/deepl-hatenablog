@@ -29,4 +29,6 @@ Hatenablog::Client.create do |blog|
 
     i += 1
   end
+  puts '# categories'
+  puts blog.categories
 end
