@@ -28,4 +28,6 @@ direnv allow
 ```bash
 # 疏通確認
 bundle exec ruby ping.rb
+# field確認
+bundle exec ruby list_fields.rb
 ```
